@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Hungry</string>
+    <string name="position" translatable="false">position</string>
+    <string name="title">Title</string>
+    <string name="profile_transition_name">profile</string>
+    <string name="profile_picture_description">Profile Picture</string>
+    <string name="eMail">E-Mail</string>
+    <string name="address">Address</string>
+    <string name="userName">User Name</string>
+    <string name="phone">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="min_3_character">Min. 3 character</string>
+    <string name="login">Login</string>
+    <string name="login_error_message">Username or Password incorrect</string>
+    <string name="save">Save</string>
+    <string name="save_error_toast">Please check phone number and email</string>
+</resources>
